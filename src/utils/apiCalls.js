@@ -57,7 +57,6 @@ export const createPlayer = async (player) => {
 export const deletePlayer = async (id) => {
   const options = {
     method: 'DELETE',
-    body: JSON.stringify(id),
     headers: {
       'Content-Type': 'application/json',
     }
