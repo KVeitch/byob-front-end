@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/byob-front-end/static/css/main.f50dce0a.chunk.css",
+    "main.js": "/byob-front-end/static/js/main.fcaef733.chunk.js",
+    "main.js.map": "/byob-front-end/static/js/main.fcaef733.chunk.js.map",
+    "runtime-main.js": "/byob-front-end/static/js/runtime-main.a2efaa62.js",
+    "runtime-main.js.map": "/byob-front-end/static/js/runtime-main.a2efaa62.js.map",
+    "static/js/2.1bc355ed.chunk.js": "/byob-front-end/static/js/2.1bc355ed.chunk.js",
+    "static/js/2.1bc355ed.chunk.js.map": "/byob-front-end/static/js/2.1bc355ed.chunk.js.map",
+    "index.html": "/byob-front-end/index.html",
+    "precache-manifest.ab241cf067287510d17a04018feb86a0.js": "/byob-front-end/precache-manifest.ab241cf067287510d17a04018feb86a0.js",
+    "service-worker.js": "/byob-front-end/service-worker.js",
+    "static/css/main.f50dce0a.chunk.css.map": "/byob-front-end/static/css/main.f50dce0a.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2efaa62.js",
+    "static/js/2.1bc355ed.chunk.js",
+    "static/css/main.f50dce0a.chunk.css",
+    "static/js/main.fcaef733.chunk.js"
+  ]
+}
